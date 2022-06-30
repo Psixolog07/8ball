@@ -28,14 +28,14 @@ answers = [
   "Весьма сомнительно"
 ]
 
-answers2 = [
+greetings = [
   "Привет",
   "Здравствуй",
   "Рад тебя видеть",
   "Приветствую",
   "Опять ты..."
 ]
-puts answers2.sample
+puts greetings.sample
 sleep(3)
 puts ""
 puts answers.sample
